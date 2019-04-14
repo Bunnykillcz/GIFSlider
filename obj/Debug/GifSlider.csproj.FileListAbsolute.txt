@@ -1,0 +1,15 @@
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\bin\Debug\GifSlider.exe.config
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\bin\Debug\GifSlider.exe
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\bin\Debug\GifSlider.pdb
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.csprojResolveAssemblyReference.cache
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.Form1.resources
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.Properties.Resources.resources
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.csproj.GenerateResource.Cache
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.exe
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.pdb
+c:\users\bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.Slideshow.resources
+C:\Users\Bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\GifSlider.csproj.ResolveComReference.cache
+C:\Users\Bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\bin\Debug\Interop.WMPDXMLib.dll
+C:\Users\Bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\Bunny\documents\visual studio 2017\Projects\GifSlider\GifSlider\obj\Debug\Interop.WMPLib.dll
